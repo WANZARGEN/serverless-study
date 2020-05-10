@@ -5,7 +5,7 @@ npm-debug.log*
 node_modules/
 
 # Transpiled code
-public/build
+public/build/
 
 # Dev tools
 .DS_Store
