@@ -1,2 +1,5 @@
 # serverless study
-Serverless study
+
+- svelt
+- serverless framework
+- aws lambda
